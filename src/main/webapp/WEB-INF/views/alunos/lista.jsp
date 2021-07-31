@@ -23,11 +23,11 @@
 
 		<div class="jumbotron">
 		   <h1> <i class="fa fa-tachometer" aria-hidden="true"></i> Aplicacao com springmvc</h1>
-		   <h3>Com spring boot</h3>
+		   <h3>Com spring boot servlet</h3>
 		</div>
 
 		<div class="d-flex justify-content-between">
-			<h1>Lista de alunos</h1>
+			<h1>Listagem de alunos</h1>
 			<h3>
 				<a class="btn btn-primary" href='<c:url value="/cadastro" />'> Cadastrar novo aluno </a>
 			</h3>
